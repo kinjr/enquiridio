@@ -1,0 +1,6 @@
+intall bower
+Necessario install o node
+https://nodejs.org/en/
+$ npm install -g bower
+$ bower install
+
